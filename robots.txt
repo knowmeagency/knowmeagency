@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.know-me.studio/sitemap.xml
+Sitemap: https://knowmeagency.nl/sitemap.xml
