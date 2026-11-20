@@ -1,5 +1,4 @@
 {
-  "cleanUrls": true,
   "redirects": [
     {"source":"/work.html","destination":"/#work","permanent":true},
     {"source":"/services.html","destination":"/#services","permanent":true},
